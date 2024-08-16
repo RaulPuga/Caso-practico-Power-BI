@@ -51,7 +51,8 @@ Referencias
 ### En la primera hoja podemos ver un tablero completo donde en la parte inferior aparece información clave como: Precio promedio, utilidad, costo promedio y días promedio de envío, en la lateral izquierda se presentan gráficas de proporciones en porcentaje de los años 2020 a 2023 con información de unidades vendidas, ventas en dolares y utilidad, en la parte lateral derecha se encuentran todos los filtros que se pueden aplicar como son: país, forma de envío, categoría del producto y años, en la parte central la primera gráfica muestra la utilidad por sub categoría, el cuadro siguiente muestra el top 3 de los clientes que más compraron y la última gráfica muestra los meses con más pedidos.
 
 
-<img width="1002" alt="Captura de Pantalla 2024-08-16 a la(s) 9 00 34" src="https://github.com/user-attachments/assets/2c76e809-f8a4-4098-aee8-01334cd6d885">
+<img width="1004" alt="Captura de Pantalla 2024-08-16 a la(s) 9 31 21" src="https://github.com/user-attachments/assets/d1ca74b6-b197-47d9-8660-12a833bf439d">
+
 
 ### En la segunda hoja podemos ver un mapa con las ventas por estado, entre más grande sea el círuclo mayor ventas registro en el período.
 <img width="1004" alt="Captura de Pantalla 2024-08-16 a la(s) 8 55 05" src="https://github.com/user-attachments/assets/43bdfe6b-86b3-472f-b79d-b4f8068ddc63">
@@ -65,7 +66,7 @@ Referencias
 # Conclusión
 Depués de analizar los datos podemos decir que:
 
-El precio promedio es de $60, el costo promedio toal de $199 la utilidad de 292,000 y se tarda la empresa en promedio 4 días en entregar los prodcutos a sus clientes. 
+El precio promedio es de $60, el costo promedio es de $52 la utilidad de 292,000 y se tarda la empresa en promedio 4 días en entregar los prodcutos a sus clientes. 
 
 Los meses que más unidades se vendierom fueron Septiembre, noviembre y diciembre por lo que podemos decir que es un producto con una estacionalidad marcada en el mercado. 
 
